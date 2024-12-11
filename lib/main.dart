@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       ),
       home: MyHomePage(),
     );
-  }
+  } //
 }
 
 class MyHomePage extends StatelessWidget {
